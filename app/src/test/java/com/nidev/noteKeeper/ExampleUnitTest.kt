@@ -1,4 +1,4 @@
-package com.nidev.notesapp
+package com.nidev.noteKeeper
 
 import org.junit.Test
 

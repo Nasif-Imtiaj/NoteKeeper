@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nidev.notesapp"
+    namespace = "com.nidev.notekeeper"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nidev.notesapp"
+        applicationId = "com.nidev.notekeeper"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
